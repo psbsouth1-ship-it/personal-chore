@@ -1,2 +1,0 @@
-# personal-chore
-for fun
